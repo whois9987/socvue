@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-1. import databse di folder database
+1. import databse di folder src/database
 2.npm install
 3. masuk ke folder server
 4. setelah masuk ke folder server terus npm install
